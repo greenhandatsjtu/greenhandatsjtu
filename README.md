@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/greenhandatsjtu)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+
+Visit count:
+
+[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/greenhandatsjtu?ratio=0.5)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenhandatsjtu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
