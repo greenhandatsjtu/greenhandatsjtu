@@ -19,6 +19,14 @@ Here are some ideas to get you started:
   <a href="https://github.com/greenhandatsjtu/steins-gate-visitor-count"> <img width="400" src="https://steins-gate-visitor-count.greenhandatsjtu.repl.co/greenhandatsjtu?ratio=0.6"> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenhandatsjtu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"><b>Wakatime Week Stats</b></p>
+<p align="center">
+  <a href="https://github.com/greenhandatsjtu/steins-gate-visitor-count"> <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=greenhandatsjtu&layout=compact&langs_count=6&hide_title=1"> </a>
+</p>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=greenhandatsjtu&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenhandatsjtu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<p align="center"><b>GitHub Stats</b></p>
+<p align="center">
+  <a href="https://github.com/greenhandatsjtu/steins-gate-visitor-count"> <img width="500" src="https://github-readme-stats.vercel.app/api?username=greenhandatsjtu&count_private=1&include_all_commits=1&show_icons=1&hide_title=1&hide_title=1"> </a>
+</p>
